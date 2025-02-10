@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Amany!  
+🎓 Computer Science Student | Interested in Cybersecurity & Web Development  
 
-<!--
-**Amany226/Amany226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Currently Learning:  
+- Web Security  
+- Linux for Ethical Hacking  
 
-Here are some ideas to get you started:
+📫 Connect with me:  
+- 🔗 LinkedIn: [Amany Ibrahim](https://www.linkedin.com/in/amany-ibrahim-16b2b8350)  
+- 🔗 GitHub: [Amany226](https://github.com/Amany226)  
+- 🎮 Discord: Amany00040  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amany226&show_icons=true&theme=tokyonight)
